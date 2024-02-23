@@ -1,7 +1,10 @@
 {
   "name": "@gxj1994/yeyan",
   "version": "1.0.0",
-  "repository": "semanterra/yeanay-commons",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gxj1994/yean.git"
+  },
   "description": "A Vue.js project",
   "author": "gxj1994 <2335837284@qq.com>",
   "private": false,
