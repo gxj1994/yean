@@ -1,6 +1,7 @@
 {
-  "name": "yeyan",
+  "name": "@gxj1994/yeyan",
   "version": "1.0.0",
+  "repository": "semanterra/yeanay-commons",
   "description": "A Vue.js project",
   "author": "gxj1994 <2335837284@qq.com>",
   "private": true,
@@ -16,6 +17,9 @@
   "dependencies": {
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
