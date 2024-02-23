@@ -4,7 +4,7 @@
   "repository": "semanterra/yeanay-commons",
   "description": "A Vue.js project",
   "author": "gxj1994 <2335837284@qq.com>",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
